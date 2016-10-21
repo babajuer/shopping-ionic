@@ -1,5 +1,5 @@
 # shopping-ionic
 
-lanch the ionic server ,  then open the index.html file in the www folder to see the app.
-
-
+# How to
+1. Start the ionic server
+2. open index.html in www folder
