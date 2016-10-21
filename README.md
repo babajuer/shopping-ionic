@@ -2,5 +2,6 @@
 Small shopping mobile application
 
 # How to
-1. Start the ionic server
-2. open index.html in www folder
+1. Install nodejs and bower dependencies
+2. Start the ionic server
+3. open index.html in www folder
