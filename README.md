@@ -1,4 +1,5 @@
-# shopping-ionic
+# Description
+Small shopping mobile application
 
 # How to
 1. Start the ionic server
